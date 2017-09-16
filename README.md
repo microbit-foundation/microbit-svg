@@ -12,6 +12,6 @@ Please use this image in accordance with the micro:bit community branding guidel
 
 http://microbit.org/community/
 
-This drawing is licensed under https://creativecommons.org/licenses/by-sa/4.0/
+This drawing is licensed under https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 We'd like you to use it to make your own pictures of micro:bit, but please credit the micro:bit Educational Foundation at microbit.org where you use the image.
