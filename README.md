@@ -6,7 +6,7 @@ It's made of a number of SVG layers, one for each colour micro:bit and an exampl
 
 If you'd like to make your own pattern of LEDs, it's easiest to duplicate the LEDsOn layer, then hide that layer and edit the new copy to match.
 
-### License
+## License
 
 Please use this image in accordance with the micro:bit community branding guidelines:
 
