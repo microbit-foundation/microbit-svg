@@ -1,4 +1,4 @@
-### microbit-svg
+# microbit-svg
 
 This is an SVG drawing of the BBC micro:bit. It will render fine in a modern browser, and was designed in Inkscape.
 
